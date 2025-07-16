@@ -64,7 +64,6 @@ Full-Stack Web Developer (Backend-leaning) from Pune, India 🇮🇳<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhananjay-kakade-657087294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
-  <a href="https://github.com/dhananjaykakade" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="30"></a>
   <a href="https://dhananjay-kakade.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" height="30"></a>
   <a href="mailto:kakadedhananjay59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
 </p>

@@ -1,6 +1,6 @@
 <h1 id="hello-there-i-am-dhananjay-kakade">Hey there, I’m Dhananjay Kakade 👨‍💻</h1>
 <p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer-animation" width="180" height="auto"></p>
+
 
 ---
 

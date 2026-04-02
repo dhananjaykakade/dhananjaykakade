@@ -7,12 +7,26 @@
 <h2 id="about-me">🚀 About Me</h2>
 
 <p>
-Full-Stack Web Developer (Backend-leaning) from Pune, India 🇮🇳<br>
-🔧 Architected scalable systems with Node.js, React, Prisma, and MongoDB<br>
-🚀 Boosted API performance by 40% & frontend by 30% using lazy loading & microservices<br>
-🏁 Backend lead for a 600-user real-time event platform<br>
-🏆 2nd Place @ GDG InnoVyuh Hackathon 2025 (AI-Powered Grader with Gemini AI)<br>
+Full Stack Developer experienced in building <strong>scalable microservices, REST APIs, and cloud-based systems</strong> from Pune, India 🇮🇳<br>
+🚀 Built a live SaaS platform with <strong>100+ active users</strong><br>
+🔧 Deployed real-world IoT solutions for clients, reducing manual monitoring by 80%<br>
+💪 Strong backend expertise in <strong>Node.js, TypeScript, and MongoDB</strong><br>
+🏆 Runner-up @ GDG InnoVyuh Hackathon 2025 | 9+ Hackathons Participated<br>
 </p>
+
+---
+
+<h2 id="work-experience">💼 Work Experience</h2>
+
+**Backend Developer Intern** | vtex.ai, Pune (Remote) | Sep 2025 – Nov 2025
+- Built microservices for LMS platform using Node.js, MongoDB, Redis with deployments on Render
+- Implemented caching with Upstash Redis, reducing API latency by 30%
+- Integrated MeiliSearch for search and ZeptoMail for email services
+
+**Freelance Full Stack Developer** | Self-Employed, Remote | Jun 2024 – Present
+- Developed IoT-based Water Tank Monitoring System for GK Mirai Society using ESP32, Next.js, Node.js, MongoDB
+- Built real-time dashboards with automated alerts, reducing manual monitoring by 80%
+- Collaborated with Artwala Foundation to build web platforms improving digital presence
 
 ---
 
@@ -40,20 +54,24 @@ Full-Stack Web Developer (Backend-leaning) from Pune, India 🇮🇳<br>
 
 <h2 id="notable-projects">💡 Notable Projects</h2>
 
-- **Evolve AI** ([GitHub](https://github.com/dhananjaykakade/evolve-ai-updated))  
-  🔬 AI Grading Engine using Gemini AI — cut manual review time by 60%  
-  💡 Microservices + Docker + Tailwind + React + Node.js + MongoDB + PostgreSQL  
+- **HowToStartAStartup** ([Live](https://howtostartastartup.live))  
+  🚀 SaaS platform helping founders go from idea to execution, serving **100+ active users**  
+  💡 Next.js, MongoDB, TypeScript, Clerk Auth, Dynamic Dashboards
 
-- **Interaction 24 Platform** ([GitHub](https://github.com/interactors2025/production-interaction25/))  
-  🎉 Event platform for 600+ users with 70,000+ page views  
-  🚀 Real-time backend with Docker, Prisma, VPS (Hostinger), and Admin Panel
+- **Evolve AI** ([GitHub](https://github.com/dhananjaykakade/evolve-ai-updated))  
+  🔬 Automated code evaluation system using Gemini APIs — cut manual review time by 60%  
+  💡 Microservices + Docker + React + Node.js + MongoDB + PostgreSQL + Prisma ORM
+
+- **IoT Water Tank Monitor** (Client Project)  
+  💧 Real-time water level tracking system for GK Mirai Society, PCMC  
+  💡 ESP32, Ultrasonic Sensors, Next.js, Node.js, MongoDB, Automated Alerts
 
 ---
 
 <h2 id="achievements">🏅 Achievements</h2>
 
-- 🥈 2nd Place - GDG InnoVyuh Hackathon 2025 (among 100+ teams)
-- 🧠 Built a real-time auto-grader simulating 100+ submissions using Gemini AI
+- 🥈 Runner-up - GDG InnoVyuh Hackathon 2025 (among 100+ teams)
+- 🚀 Built & launched a live SaaS platform with 100+ active users
 - 🎯 Core Developer & Backend Lead of “Interaction 24” at Modern College (600+ attendees)
 - 🎓 Top 3% performer at IMCC, Pune (MCA)  
 - 🎓 Top 5% in BSc CS at Modern College, Pune
@@ -64,7 +82,7 @@ Full-Stack Web Developer (Backend-leaning) from Pune, India 🇮🇳<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhananjay-kakade-657087294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
-  <a href="https://dhananjay-kakade.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" height="30"></a>
+  <a href="https://dhananjaykakade.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" height="30"></a>
   <a href="mailto:kakadedhananjay59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"></a>
 </p>
 
